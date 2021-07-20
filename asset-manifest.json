@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Geo-Locator/static/css/main.e9836026.chunk.css",
+    "main.js": "/Geo-Locator/static/js/main.b4f88a15.chunk.js",
+    "main.js.map": "/Geo-Locator/static/js/main.b4f88a15.chunk.js.map",
+    "runtime-main.js": "/Geo-Locator/static/js/runtime-main.97a3a666.js",
+    "runtime-main.js.map": "/Geo-Locator/static/js/runtime-main.97a3a666.js.map",
+    "static/js/2.51337d08.chunk.js": "/Geo-Locator/static/js/2.51337d08.chunk.js",
+    "static/js/2.51337d08.chunk.js.map": "/Geo-Locator/static/js/2.51337d08.chunk.js.map",
+    "static/js/3.c84974fb.chunk.js": "/Geo-Locator/static/js/3.c84974fb.chunk.js",
+    "static/js/3.c84974fb.chunk.js.map": "/Geo-Locator/static/js/3.c84974fb.chunk.js.map",
+    "index.html": "/Geo-Locator/index.html",
+    "static/css/main.e9836026.chunk.css.map": "/Geo-Locator/static/css/main.e9836026.chunk.css.map",
+    "static/js/2.51337d08.chunk.js.LICENSE.txt": "/Geo-Locator/static/js/2.51337d08.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.97a3a666.js",
+    "static/js/2.51337d08.chunk.js",
+    "static/css/main.e9836026.chunk.css",
+    "static/js/main.b4f88a15.chunk.js"
+  ]
+}
